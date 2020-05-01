@@ -1,9 +1,6 @@
-# high-laughability
-Quotes from our HA overlords
+# high-laughability - Quotes from our HA overlords
 
-"Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog."
-
-[[TOC]]
+## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
 === it´s all in your mind ===
 
