@@ -780,6 +780,7 @@ beekhof: i was being lazy
 ```
 < jparsons> When those two (godfather and fabbione) arrange for a node to leave a cluster, they don't just evict the node - they send 408V to the  node, and make it look like an accident!
 ```
+[fence fail 1](pictures/fence_fail1.jpg) | [fence fail 2](pictures/fence_fail2.jpg)
 
 ### Helpful hints on choosing a source code management system
 
