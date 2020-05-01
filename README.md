@@ -1,4 +1,4 @@
-# high-laughability - Quotes from our HA overlords
+# High-lAughability - Quotes from our HA overlords
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
