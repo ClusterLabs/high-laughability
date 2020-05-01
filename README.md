@@ -870,4 +870,3 @@ Hello sir,
              time, and I need someone like you to whip me every time I forget.
 19:23  * fabbione is already dressed in black leather
 ```
-"
