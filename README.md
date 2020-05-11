@@ -2,6 +2,17 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+
+### You don't act like a scientist, you're more like a game show host
+```
+11:17 < fabbione> i am going back to the first patch and debug from there.....
+11:18 < fabbione> crypto is witch hunting anyway
+11:19 < chrissie> almost ghost hunting
+11:19 < chrissie> who ya gonna call?
+11:19 < fabbione> GHOSTBUSTERS!!!!!
+[Cryptobusters](pictures/Cryptobusters.png) 
+```
+
 ### it´s all in your mind
 
 ```
