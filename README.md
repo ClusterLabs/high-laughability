@@ -10,8 +10,8 @@
 11:19 < chrissie> almost ghost hunting
 11:19 < chrissie> who ya gonna call?
 11:19 < fabbione> GHOSTBUSTERS!!!!!
-[Cryptobusters](pictures/Cryptobusters.png) 
-```
+````
+![alt text](https://raw.githubusercontent.com/ClusterLabs/high-laughability/master/pictures/Cryptobusters.png "Cryptobusters")
 
 ### it´s all in your mind
 
