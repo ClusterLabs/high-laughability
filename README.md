@@ -3,6 +3,19 @@
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
 
+### It's not a game (or is it?)
+```
+13:24 < chrissie> Ok, proved that the new code has no impact on the knet manpages
+13:27 < fabbione> nice :)
+13:31 < chrissie> but feel free to add @notes :)
+13:56 < fabbione> was not planning to :)
+13:56 < fabbione> @notes GET A LIFE INSTEAD OF PLAYING KNET 3D
+13:57 < chrissie> lol
+13:57 < chrissie> I need to get a life and stop playing doxygen2man 2D
+13:57 < chrissie> it's curiously compelling
+13:57 < fabbione> ROFL
+````
+
 ### You don't act like a scientist, you're more like a game show host
 ```
 11:17 < fabbione> i am going back to the first patch and debug from there.....
