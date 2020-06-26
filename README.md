@@ -2,6 +2,13 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### hold it
+```
+15:39 < fabbione> hmmm why is covscan failing?
+15:39 < fabbione> it shouldn´t
+15:40 < chrissie> you didn't breathe on it did you?
+15:40 < fabbione> LOL
+````
 
 ### It's not a game (or is it?)
 ```
