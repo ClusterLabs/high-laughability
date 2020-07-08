@@ -2,6 +2,19 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+
+
+
+### Who's the weakest link?
+````
+13:51 < chrissie> honzaf: I suppose if there's a node running the old corosync then 
+                  crypto reload should be disabled
+13:52 < chrissie> otherwise it's going to be removed from the cluster anyway!
+13:52 < fabbione> "you forgot to update your corosync. GOODBYE!"
+13:52 < chrissie> lol
+13:52 < fabbione> that's worse than a MS licence expiration warning
+````
+
 ### hold it
 ```
 15:39 < fabbione> hmmm why is covscan failing?
