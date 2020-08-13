@@ -3,7 +3,14 @@
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
 
-
+### Fabio is super
+````
+10:50 < fabbione> I clogged CI :)
+10:50 < chrissie> congratulations
+10:50 < chrissie> call a plumber!
+10:51  * fabbione dresses as Mario Bro
+10:51 < chrissie> ROFL
+````
 
 ### Who's the weakest link?
 ````
