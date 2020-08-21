@@ -2,6 +2,18 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### Someone is not taking his meds
+````
+08:39 < fabbione> that said.. i think, we our approach, we can change onwire at any 
+                  time
+08:39 < fabbione> even mid release
+08:39 < fabbione> as long as we don´t bump +2 within the same major release
+08:39 < chrissie> I think the RHEL overlords would be unimpressed with that
+08:40 < fabbione> it doesn´t matter the slightest if it´s a config option
+08:40 < fabbione> as long as we don´t break compat
+08:40 < fabbione> and maybe we can support X to X+2 or even X+3
+08:40 < chrissie> NURSE - HE'S OUT OF BED AGAIN!
+````
 
 ### Fabio is super
 ````
