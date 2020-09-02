@@ -2,6 +2,17 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### Answer to the ultimate question of life, the universe, and everything
+````
+<illustris> I'm still not sure why there is a spike in backlog only when some nodes are added. 42 caused it, 43 didn't, and 44 did again
+<honzaf> I would understand 42, but not 44 :)
+<honzaf> (The Hitchhiker's Guide to the Galaxy)
+<honzaf> no matter what, I would bet it has something to do when token/messages get lost or not.
+<honzaf> if nothing get lost it behaves orderly. If something is lost, it starts resending things and more packets get lost
+<illustris> So the answer to the ultimate question of life, the universe, and everything justhappens to be the number of nodes corosync can support on default conf? Interesting...
+<honzaf> lol
+````
+
 ### Someone is not taking his meds
 ````
 08:39 < fabbione> that said.. i think, we our approach, we can change onwire at any 
