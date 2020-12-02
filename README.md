@@ -2,6 +2,19 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### We have no secrets
+````
+18:16 < illustris> We'll start testing probably by early next week. As for remote access, I personally fully trust you guys, but remote access to a company datacenter will be really tough 
+                   to sell the higher ups on XD
+18:16 < illustris> I can push corosync debug logs and core dumps to an AWS server outside our infra for you to access.
+18:27 < ^C> I've to go, thank you and see you next week. Bye!
+18:38 < fabbione> illustris: ack i understand.. well you can always make the case: "Well those are the same guys that write kernel patches.... we run their code no matter..." :P
+18:38 < fabbione> illustris: just joking... btw your credit card num is...
+18:39 < illustris> haha... screenshotting and sending to my manager
+18:39 < fabbione> LOL
+18:39 < ^C> LOL
+````
+
 ### Answer to the ultimate question of life, the universe, and everything
 ````
 <illustris> I'm still not sure why there is a spike in backlog only when some nodes are added. 42 caused it, 43 didn't, and 44 did again
