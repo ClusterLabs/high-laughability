@@ -2,6 +2,12 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### Suspicious
+````
+10:01 <kwenninger> did you see any suspicious pacemaker logs when it wouldn't start properly?
+10:03 <bob> kwenninger, All pacemaker logs are suspicious. ;)
+````
+
 ### We have no secrets
 ````
 18:16 < illustris> We'll start testing probably by early next week. As for remote access, I personally fully trust you guys, but remote access to a company datacenter will be really tough 
