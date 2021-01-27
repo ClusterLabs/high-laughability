@@ -2,6 +2,14 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+
+### Appropriate headwear
+````
+13:53 < chrissie> there is literally NO locking in the timer code!
+14:23 < fabbione> chrissie: do I have to put my "OMG I am shocked!" hat on?
+14:24 < chrissie> lol, save it
+````
+
 ### Suspicious
 ````
 10:01 <kwenninger> did you see any suspicious pacemaker logs when it wouldn't start properly?
