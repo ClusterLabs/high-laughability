@@ -2,6 +2,18 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### What you get up to in your own time is nobody else's business
+````
+13:25 < chrissie> I think I know what needs to be done
+13:25 < fabbione> rm -rf freebsd.git ?
+13:25  * chrissie has been reading the ifconfig code
+13:26 < chrissie> yes, i am THAT much of a masochist
+13:26 < chrissie> haha
+13:26 < fabbione> i have been reading that code too to start libnozzle on bsd :P
+13:26 < fabbione> let´s open a BSDM club
+13:26 < chrissie> lol
+13:26 < fabbione> (it´s not a typo ;))
+````
 
 ### Appropriate headwear
 ````
