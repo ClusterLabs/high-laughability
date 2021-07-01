@@ -2,6 +2,30 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+
+### We are multi-lingual
+````
+13:57 < chrissie> Intuitively I like the idea - it makes sense from the API POV. but 
+                  it does mean we are doing the (slightly) heavy lifting of 
+                  decryption even for rogue packets
+13:59 < fabbione> yes that´s correct, but rouge packets can come also from a 
+                  compromised known host
+13:59 < fabbione> hashing is there to help with that
+14:00 < chrissie> (sorry, giggling at 'rouge' packets)
+14:00 < fabbione> i see ACL more of a protection for rouge unencrypted packets
+14:00 < fabbione> kind of like a semi broken condom.. but you get the idea :P
+14:01 < fabbione> LOL
+14:01 < fabbione> i just got it :)
+14:01 < chrissie> I think you mean 'rogue' - 'rouge' is French for red 
+                  #EnglishIsStupid
+14:01 < fabbione> yeah
+14:01 < fabbione> RED PACKET ALERT!!!
+14:01 < fabbione> RED PACKET ALERT!!!
+14:01 < chrissie> lol
+14:01 < fabbione> ROUGE PACKET ALERT!!!
+14:01 < fabbione> omg.. that sounds so bad in french
+
+
 ### What you get up to in your own time is nobody else's business
 ````
 13:25 < chrissie> I think I know what needs to be done
