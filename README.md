@@ -2,6 +2,13 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### The editor wars continue - only more slowly
+````
+07:30 < fabbione> are you crazy running emacs on that machine? :P
+07:30 < fabbione> just kidding.. i am keeping my hands off
+07:31 < chrissie> even a sparc running emacs, is quicker than me using vi
+````
+
 
 ### We are multi-lingual
 ````
