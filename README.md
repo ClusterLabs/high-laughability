@@ -2,6 +2,21 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### We are not dinosaurs
+````
+14:54 <@chrissie> wait, why am I running corosync on my mail server?!
+14:55 <@fabbione> we didn´t know honzaf was working on a SMTP transport for corosync
+14:55 <@fabbione> quorum over email
+14:56 <@chrissie> lol
+14:56 <@chrissie> highlatency clustering
+15:19 < honzaf> fabbione: indeed, totem pigeon mail transport is the way to go for future
+19:53 < illustris> UDP -> SCTP -> SMTP -> BirDP
+19:53 < illustris> Now that's a promising roadmap
+````
+
+
+
+
 ### The editor wars continue - only more slowly
 ````
 07:30 < fabbione> are you crazy running emacs on that machine? :P
