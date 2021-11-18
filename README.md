@@ -2,6 +2,19 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### Beware things hiding in the shadows
+````
+09:47 < honzaf> it's miracle that users even know about corosync... I would expect 
+                they know pcs/pve maybe pcmk
+09:49 < fabbione> honzaf: we live in the shadow
+09:49 < chrissie> best place
+09:49 < fabbione> i wonder sometime what is this big ball of fire in the sky.. is it 
+                  going to kill me?
+09:49 < honzaf> yes, it will
+09:50  * fabbione goes to drink some blood
+````
+
+
 ### We are not dinosaurs
 ````
 14:54 <@chrissie> wait, why am I running corosync on my mail server?!
@@ -13,8 +26,6 @@
 19:53 < illustris> UDP -> SCTP -> SMTP -> BirDP
 19:53 < illustris> Now that's a promising roadmap
 ````
-
-
 
 
 ### The editor wars continue - only more slowly
