@@ -2,6 +2,14 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+### We act immediately
+````
+15:12 < fabbione> BRACE YOURSELF
+15:13 < fg_> {fg_}
+15:14 < chrissie> lol
+15:14 < fabbione> rofl
+````
+
 ### Beware things hiding in the shadows
 ````
 09:47 < honzaf> it's miracle that users even know about corosync... I would expect 
