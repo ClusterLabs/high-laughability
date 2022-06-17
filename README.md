@@ -2,6 +2,11 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## We know this to be true
+````
+13:08 < chrissie> clusters consist mostly of race-conditions
+````
+
 ### We act immediately
 ````
 15:12 < fabbione> BRACE YOURSELF
