@@ -2,6 +2,11 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## Never ask a woman her age....
+````
+16:01 < anonymous>  I'm doing one of these secure programming courses. The tutor "has 20+ years experience" and I'm thinking .. "newbie"
+````
+
 ## We know this to be true
 ````
 13:08 < chrissie> clusters consist mostly of race-conditions
