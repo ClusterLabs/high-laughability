@@ -2,6 +2,15 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## There is more than one use for a spreadsheet
+````
+AndyP: There's a mess of Jiras and MRs involved so I've put things into a
+       spreadsheet to have everything in one place .....
+fabbione: @andyp why did I read: "so I've put things into a spreadsheet to HATE everything 
+                 in one place"?
+AndyP: @fabbione I couldn't possibly guess :)
+````
+
 ## Never ask a woman her age....
 ````
 16:01 < anonymous>  I'm doing one of these secure programming courses. The tutor "has 20+ years experience" and I'm thinking .. "newbie"
