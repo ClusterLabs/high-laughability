@@ -5,7 +5,7 @@
 ## Violence is never the solution
 ````
 fabbione: that´s exactly my point
-beekhof: as usual we. violently agree
+beekhof: as usual we violently agree
 beekhof: emphasis on violent
 ````
 
