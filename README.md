@@ -2,6 +2,13 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## Violence is never the solution
+````
+fabbione: that´s exactly my point
+beekhof: as usual we. violently agree
+beekhof: emphasis on violent
+````
+
 ## There is more than one use for a spreadsheet
 ````
 AndyP: There's a mess of Jiras and MRs involved so I've put things into a
