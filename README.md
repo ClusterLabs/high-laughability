@@ -2,6 +2,16 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## Sometimes, everyone is hungry
+````
+fabbione: you guys have created a black hole of energy in lab.... SO MANY BUILDS I COULDN`T EVEN RUN YUM UPDATE!
+chrissie: to be fair, yum uses as much CPU as several builds anyway
+fabbione: lol
+e-ddie: no wonder it's called yum. it eats all your cpu cores
+fabbione: alias nom yum
+fabbione: nom nom nom...
+````
+
 ## Violence is never the solution
 ````
 fabbione: that´s exactly my point
