@@ -2,6 +2,11 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## Network switches: the truth, the whole truth, and nothing but the truth, so help me God
+````
+chrissie: My switch was doing mad stuff yesterday. it turns out that if the cable isn't plugged in, it won't send traffic. I mean, really
+````
+
 ## Sometimes, everyone is hungry
 ````
 fabbione: you guys have created a black hole of energy in lab.... SO MANY BUILDS I COULDN`T EVEN RUN YUM UPDATE!
