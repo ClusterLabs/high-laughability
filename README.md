@@ -2,6 +2,20 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## There are upgrades and there are UPGRADES
+````
+13:18 < chrissie> oh great. I updated my Debian 'display' box and it broke both
+                  networking and the display. I suppose it might hold a door
+                  open
+13:23 < fg_> to Trixie? networking might "just" be renamed interfaces (yay)
+13:31 < chrissie> TBH I can get wired working, but documention on getting wifi
+                  working without a display is ... hard to find
+13:32 < chrissie> also - wthout a display the thing is useless to me. that's
+                  the whole point of its existance is to show home stats!
+14:41 < fabbione> chrissie: you know debian 3 to debian 13 updates are not
+                  supported, right? :P
+````
+
 ## Network switches: the truth, the whole truth, and nothing but the truth, so help me God
 ````
 chrissie: My switch was doing mad stuff yesterday. it turns out that if the cable isn't plugged in, it won't send traffic. I mean, really
