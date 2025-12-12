@@ -2,6 +2,14 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## New pension plans
+````
+fabbione: if work becomes boring, i will quit and live under a bridge
+fonta: no tomato farm? :)
+fabbione: nah... pineapples for pizza and avocados
+fonta: I won't screenshot it, but wouldn't you get the italy citizenship revoked for putting pineapple on pizza? ;)
+````
+
 ## There are upgrades and there are UPGRADES
 ````
 13:18 < chrissie> oh great. I updated my Debian 'display' box and it broke both
