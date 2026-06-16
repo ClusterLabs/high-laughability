@@ -2,6 +2,17 @@
 
 ## Funny, insightful, or otherwise interesting things said by members of the team. Reverse chronological order, like a blog.
 
+## Year of the OpenIndiana
+````
+06:29 < fabbione> someone filed PRs for OI recently
+06:29 < fabbione> i thought might be someone from your team
+06:33 < janosch> no it wasn't from our team. so we're not alone out there
+06:33 < janosch> i knew it
+06:44 < fabbione> lol
+06:44 < fabbione> it´s a conspiracy
+06:48 < janosch> either that or oi is going to be the next big thing
+````
+
 ## New pension plans
 ````
 fabbione: if work becomes boring, i will quit and live under a bridge
